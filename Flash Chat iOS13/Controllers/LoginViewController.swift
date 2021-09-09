@@ -18,6 +18,8 @@ class LoginViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         navigationController?.navigationBar.isHidden = false
+        emailTextfield.text = "1@q.com"
+        passwordTextfield.text = "123123"
     }
 
     @IBAction func loginPressed(_ sender: UIButton) {
