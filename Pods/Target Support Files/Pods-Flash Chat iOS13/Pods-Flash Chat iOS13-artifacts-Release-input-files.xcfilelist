@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Flash Chat iOS13/Pods-Flash Chat iOS13-artifacts.sh
+${PODS_ROOT}/FirebaseAnalytics/Frameworks/FirebaseAnalytics.xcframework
+${PODS_ROOT}/GoogleAppMeasurement/Frameworks/GoogleAppMeasurementWithoutAdIdSupport.xcframework
